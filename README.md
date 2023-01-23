@@ -1,2 +1,4 @@
-# -Students-Innovation-Club
-The main objective of the Students Innovation Club (SIC) at VEMU Institute of Technology is to encourage, inspire and nurture young students by supporting them to work with new ideas and transform them into prototypes.
+# work
+all the practice 
+Hi friends here is some small projects which is developed by me and it may useful to you .. 
+Technologys used is HTML ,css,js,bootstrap
